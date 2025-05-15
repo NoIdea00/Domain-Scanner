@@ -16,7 +16,7 @@ Make sure **Subdominator** and **HTTPX** are properly installed and accessible f
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/NoIdea00/domain-scanner.git
+    git clone https://github.com/NoIdea00/Domain-Scanner-.git
     cd domain-scanner
     ```
 
